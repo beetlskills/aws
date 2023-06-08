@@ -1,14 +1,5 @@
-## Platform IO
-.pioenvs
-.piolibdeps
-
-## VSCode
-.vscode/c_cpp_properties.json
-.vscode/.browse.c_cpp.db*
-.vscode/launch.json
-.vscode/settings.json
-
-## Custom
-src/main.h.secret
-src/certs
-lib/AWS_IOT/src/aws_iot_certficates.c.secret
+certs
+certs/device certificate for microbot
+certs/private key
+certs/public key
+certs/rootCA
